@@ -5,7 +5,7 @@
 $ docker-compose up
 ```
 
-## Build static files
+## Build for production
 ``` console
 $ docker-compose run --rm web npm run build
 ```
